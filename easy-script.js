@@ -74,3 +74,5 @@ function multiSumX(num, ten = 10) {
     return multiSumX(num, ten - 1);
   }
 }
+
+//End here because of edabit free trail ends
