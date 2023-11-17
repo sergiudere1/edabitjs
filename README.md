@@ -1,2 +1,2 @@
 # edabitjs
-Edabit Js  challanges
+Edabit Js  challanges // ended becaue of free trial
